@@ -154,3 +154,6 @@ deactivate
 ---
 
 **Desarrollado para analisis estadistico de arboles de decision**
+
+Created by **Equipo 2 - 9-2 **
+Universidad Politécnica de Sinaloa
